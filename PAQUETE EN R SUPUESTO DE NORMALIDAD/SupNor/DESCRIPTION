@@ -1,0 +1,11 @@
+Package: SupNor
+Type: Package
+Title: Realiza un supuesto de normalidad
+Version: 0.1.0
+Author: Jesús Flores Rodríguez
+Maintainer: The package maintainer <jesusfloresrodriguez29@gmail.com>
+Description: Este paquete calcula el supuesto de normalidad mediante un gráfico Q-Q y el test de Shapiro-Wilk.
+License: DPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
